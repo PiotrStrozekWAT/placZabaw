@@ -4,3 +4,4 @@ test konfliktu
 drugi commit
 
 Piotr Stro¿ek
+Robert Paszkowski
