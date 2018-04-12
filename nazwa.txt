@@ -3,5 +3,7 @@ zajêcia z GIT
 test konfliktu 
 drugi commit
 
+tortoise test
+
 Piotr Stro¿ek
 Robert Paszkowski
