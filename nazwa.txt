@@ -7,3 +7,5 @@ tortoise test
 
 Piotr Stro¿ek
 Robert Paszkowski
+
+I jeszcze ja 
